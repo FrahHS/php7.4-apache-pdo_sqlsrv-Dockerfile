@@ -1,3 +1,3 @@
-# Dockerfiles
+# php7.4-apache pdo_sqlsrv
 
-## Dockerfiles repository
+## php7.4-apache pdo_sqlsrv Dockerfile
